@@ -1,8 +1,8 @@
 import React, { useRef } from 'react';
-import { ArrowUpRight, Sparkles, ChevronDown } from 'lucide-react';
+import { ArrowUpRight, ChevronDown } from 'lucide-react';
 import { useCart } from '../../context/CartContext';
 
-export const Hero = ({ onExploreProduct, onOpenFilm }) => {
+export const Hero = ({ onExploreProduct }) => {
   const { addToCart, currency } = useCart();
   const videoRef = useRef(null);
 
@@ -45,21 +45,14 @@ export const Hero = ({ onExploreProduct, onOpenFilm }) => {
   return (
     <section
       id="hero"
-      className="relative w-full h-[100dvh] min-h-[640px] max-h-[1080px] bg-black text-white flex flex-col justify-between items-center text-center pt-16 md:pt-20 pb-5 px-4 sm:px-6 overflow-hidden"
+      className="relative w-full h-[100dvh] min-h-[640px] max-h-[1080px] bg-black text-white flex flex-col justify-between items-center text-center pt-20 pb-6 px-4 sm:px-6 overflow-hidden"
     >
       {/* Ambient background glows */}
-      <div className="absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] md:w-[850px] h-[450px] bg-white/[0.04] blur-[150px] pointer-events-none rounded-full" />
+      <div className="absolute top-1/3 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] md:w-[900px] h-[450px] bg-white/[0.04] blur-[150px] pointer-events-none rounded-full" />
 
       {/* Top Header & Tagline */}
-      <div className="flex flex-col items-center space-y-2.5 max-w-4xl relative z-10 shrink-0">
-        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/[0.06] border border-white/10 text-neutral-300 text-[11px] font-medium tracking-wider uppercase">
-          <Sparkles className="w-3 h-3 text-white" />
-          <span>Introducing iPhone 18 Pro</span>
-          <span className="w-1 h-1 rounded-full bg-white/40" />
-          <span className="text-white font-semibold">Apple Silicon A20 Pro</span>
-        </div>
-
-        <h1 className="text-4xl sm:text-6xl md:text-7xl lg:text-8xl font-bold tracking-tight text-white leading-none">
+      <div className="flex flex-col items-center space-y-3 max-w-4xl relative z-10 shrink-0">
+        <h1 className="text-5xl sm:text-7xl md:text-8xl lg:text-9xl font-bold tracking-tight text-white leading-none">
           Pro. In every way.
         </h1>
 
@@ -69,11 +62,11 @@ export const Hero = ({ onExploreProduct, onOpenFilm }) => {
         </p>
       </div>
 
-      {/* Center Cinematic Video / Visual (Fills screen without pushing buttons off) */}
+      {/* Center Cinematic Video / Visual (Fills screen cleanly without pushing buttons off) */}
       <div className="relative w-full max-w-3xl flex-1 min-h-0 flex items-center justify-center my-auto overflow-hidden z-10 group">
         <video
           ref={videoRef}
-          className="max-h-[38vh] sm:max-h-[42vh] md:max-h-[46vh] w-auto object-contain filter drop-shadow-[0_20px_45px_rgba(0,0,0,0.85)] rounded-2xl transition-transform duration-700 group-hover:scale-[1.02]"
+          className="max-h-[40vh] sm:max-h-[44vh] md:max-h-[48vh] w-auto object-contain filter drop-shadow-[0_20px_45px_rgba(0,0,0,0.85)] rounded-2xl transition-transform duration-700 group-hover:scale-[1.02]"
           src="/assets/iphone-18-pro/iphone-18-pro-hero-desktop.mp4"
           autoPlay
           loop
@@ -107,7 +100,7 @@ export const Hero = ({ onExploreProduct, onOpenFilm }) => {
           Or {emiFormatted} for 12 mo. with 0% interest & instant trade-in savings
         </p>
 
-        {/* Subtle scroll down hint */}
+        {/* Scroll hint */}
         <button
           onClick={handleScrollToCraftsmanship}
           className="pt-1 text-neutral-500 hover:text-white transition-colors cursor-pointer flex items-center gap-1 text-[10px] uppercase tracking-widest"

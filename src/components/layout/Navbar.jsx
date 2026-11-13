@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Search, ShoppingBag, Menu, X, ArrowUpRight, PhoneCall } from 'lucide-react';
+import { Search, ShoppingBag, Menu, X, ArrowUpRight } from 'lucide-react';
 import { AppleLogo } from '../common/AppleLogo';
 import { useCart } from '../../context/CartContext';
 
@@ -61,13 +61,16 @@ export const Navbar = () => {
         }`}
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-12 md:h-14 flex items-center justify-between">
-          {/* Authentic Clean Apple Brand Logo */}
+          {/* Logo with Apple text beside it */}
           <Link
             to="/"
-            className="flex items-center text-white/90 hover:text-white transition-opacity focus:outline-none py-1 group"
+            className="flex items-center gap-2 text-white/95 hover:text-white transition-opacity focus:outline-none py-1 group"
             aria-label="Apple Home"
           >
-            <AppleLogo className="w-4 h-4 md:w-[18px] md:h-[18px] text-white transition-transform group-hover:scale-105" />
+            <AppleLogo className="w-5 h-5 md:w-[22px] md:h-[22px] transition-transform duration-200 group-hover:scale-105" />
+            <span className="font-semibold text-base md:text-lg tracking-tight text-white group-hover:text-neutral-200 transition-colors">
+              Apple
+            </span>
           </Link>
 
           {/* Desktop Navigation Links */}
