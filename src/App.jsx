@@ -4,6 +4,7 @@ import { CartProvider } from './context/CartContext';
 import { LenisScroll } from './components/common/LenisScroll';
 import { Navbar } from './components/layout/Navbar';
 import { Hero } from './components/home/Hero';
+import { CraftsmanshipSection } from './components/home/CraftsmanshipSection';
 import { ProductListing } from './components/shop/ProductListing';
 import { AccessoriesSection } from './components/home/AccessoriesSection';
 import { OffersSection } from './components/home/OffersSection';
@@ -30,9 +31,14 @@ export function AppContent() {
 
       {/* Main Content Flow */}
       <main className="flex-1">
-        {/* Keynote Luxury Hero Section */}
+        {/* Fullscreen Keynote Hero Section */}
         <Hero
           onExploreProduct={(id) => setSelectedProductId(id)}
+          onOpenFilm={() => setIsFilmOpen(true)}
+        />
+
+        {/* Dedicated Titanium Precision Craftsmanship Section */}
+        <CraftsmanshipSection
           onOpenFilm={() => setIsFilmOpen(true)}
         />
 

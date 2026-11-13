@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Search, ShoppingBag, Menu, X, ArrowUpRight, Sparkles, PhoneCall, Tag } from 'lucide-react';
+import { Search, ShoppingBag, Menu, X, ArrowUpRight, PhoneCall } from 'lucide-react';
 import { AppleLogo } from '../common/AppleLogo';
 import { useCart } from '../../context/CartContext';
 
@@ -12,13 +12,12 @@ export const Navbar = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      setIsScrolled(window.scrollY > 20);
+      setIsScrolled(window.scrollY > 15);
     };
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  // Close mobile menu on route change
   useEffect(() => {
     setMobileMenuOpen(false);
   }, [location.pathname]);
@@ -27,7 +26,7 @@ export const Navbar = () => {
     { name: 'Home', path: '/' },
     { name: 'iPhone', path: '/#iphone-lineup' },
     { name: 'Accessories', path: '/#accessories' },
-    { name: 'Offers', path: '/#offers', badge: 'New' },
+    { name: 'Offers', path: '/#offers', badge: 'NEW' },
     { name: 'Contact', action: openContactModal }
   ];
 
@@ -44,7 +43,7 @@ export const Navbar = () => {
       if (element) {
         e.preventDefault();
         if (window.lenis) {
-          window.lenis.scrollTo(element, { offset: -70 });
+          window.lenis.scrollTo(element, { offset: -60 });
         } else {
           element.scrollIntoView({ behavior: 'smooth' });
         }
@@ -55,64 +54,34 @@ export const Navbar = () => {
   return (
     <>
       <header
-        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
+        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
           isScrolled
             ? 'bg-black/85 backdrop-blur-2xl border-b border-white/10 shadow-[0_4px_30px_rgba(0,0,0,0.8)]'
-            : 'bg-black/50 backdrop-blur-md border-b border-white/5'
+            : 'bg-black/60 backdrop-blur-xl border-b border-white/[0.06]'
         }`}
       >
-        {/* Subtle top notification ribbon */}
-        <div className="hidden md:flex justify-between items-center px-8 py-1 bg-neutral-950/80 border-b border-white/[0.04] text-[11px] text-neutral-400 font-light">
-          <div className="flex items-center gap-2">
-            <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
-            <span>Complimentary 2-Day Express Shipping & Free Personal Engraving</span>
-          </div>
-          <div className="flex items-center gap-4">
-            <button
-              onClick={() => setCurrency(currency === 'USD' ? 'INR' : 'USD')}
-              className="text-neutral-300 hover:text-white transition-colors cursor-pointer flex items-center gap-1 font-mono text-[10px] uppercase bg-white/5 px-2 py-0.5 rounded border border-white/10"
-              title="Toggle Currency"
-            >
-              Currency: <span className="text-white font-semibold">{currency}</span>
-            </button>
-            <button
-              onClick={openContactModal}
-              className="hover:text-white transition-colors flex items-center gap-1 cursor-pointer"
-            >
-              <PhoneCall className="w-3 h-3 text-neutral-400" />
-              <span>Apple Concierge</span>
-            </button>
-          </div>
-        </div>
-
-        {/* Main luxury navbar */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-14 md:h-16 flex items-center justify-between">
-          {/* Brand Logo */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-12 md:h-14 flex items-center justify-between">
+          {/* Authentic Clean Apple Brand Logo */}
           <Link
             to="/"
-            className="flex items-center gap-2.5 text-white group focus:outline-none"
+            className="flex items-center text-white/90 hover:text-white transition-opacity focus:outline-none py-1 group"
             aria-label="Apple Home"
           >
-            <div className="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center transition-all duration-300 group-hover:bg-white/15 group-hover:border-white/30 group-hover:scale-105">
-              <AppleLogo className="w-4 h-4 text-white transition-transform group-hover:scale-110" />
-            </div>
-            <span className="font-semibold text-lg tracking-tight text-white group-hover:text-neutral-200 transition-colors">
-              Apple
-            </span>
+            <AppleLogo className="w-4 h-4 md:w-[18px] md:h-[18px] text-white transition-transform group-hover:scale-105" />
           </Link>
 
-          {/* Desktop Navigation Menu Links */}
-          <nav className="hidden md:flex items-center gap-1 lg:gap-2">
+          {/* Desktop Navigation Links */}
+          <nav className="hidden md:flex items-center gap-6 lg:gap-8">
             {navLinks.map((link) => (
               <a
                 key={link.name}
                 href={link.path || '#'}
                 onClick={(e) => handleLinkClick(link, e)}
-                className="relative px-3.5 py-1.5 text-[13.5px] font-normal tracking-wide text-neutral-300 hover:text-white rounded-full hover:bg-white/[0.06] transition-all duration-200 flex items-center gap-1.5 group cursor-pointer"
+                className="text-[12px] lg:text-[13px] font-normal tracking-tight text-neutral-300 hover:text-white transition-colors duration-150 flex items-center gap-1.5 cursor-pointer"
               >
                 <span>{link.name}</span>
                 {link.badge && (
-                  <span className="text-[9px] uppercase tracking-wider font-semibold px-1.5 py-0.2 rounded-full bg-white/10 text-white border border-white/20 group-hover:bg-white group-hover:text-black transition-colors">
+                  <span className="text-[9px] uppercase tracking-wider font-semibold px-1.5 py-0.2 rounded-full bg-white/10 text-neutral-200 border border-white/15">
                     {link.badge}
                   </span>
                 )}
@@ -120,56 +89,65 @@ export const Navbar = () => {
             ))}
           </nav>
 
-          {/* Right Action Icons: Search, Cart, CTA */}
-          <div className="flex items-center gap-2 sm:gap-3">
+          {/* Right Action Icons: Search, Cart, Currency, CTA */}
+          <div className="flex items-center gap-2 sm:gap-3.5">
+            {/* Currency toggle */}
+            <button
+              onClick={() => setCurrency(currency === 'USD' ? 'INR' : 'USD')}
+              className="hidden lg:flex items-center text-[10px] font-mono text-neutral-400 hover:text-white transition-colors px-2 py-0.5 rounded bg-white/5 border border-white/10 cursor-pointer"
+              title="Toggle Currency"
+            >
+              {currency}
+            </button>
+
             {/* Quick Search trigger */}
             <button
               onClick={openSearch}
-              className="p-2 rounded-full text-neutral-300 hover:text-white hover:bg-white/10 transition-colors focus:outline-none cursor-pointer relative"
+              className="p-1.5 rounded-full text-neutral-300 hover:text-white hover:bg-white/10 transition-colors focus:outline-none cursor-pointer"
               aria-label="Search Store"
               title="Search (⌘K)"
             >
-              <Search className="w-4 h-4" />
+              <Search className="w-3.5 h-3.5" />
             </button>
 
             {/* Shopping Bag Button with live count */}
             <button
               onClick={openCart}
-              className="relative p-2 rounded-full text-neutral-300 hover:text-white hover:bg-white/10 transition-colors focus:outline-none cursor-pointer group"
+              className="relative p-1.5 rounded-full text-neutral-300 hover:text-white hover:bg-white/10 transition-colors focus:outline-none cursor-pointer group"
               aria-label="Shopping Bag"
             >
-              <ShoppingBag className="w-4 h-4 transition-transform group-hover:scale-110" />
+              <ShoppingBag className="w-3.5 h-3.5 transition-transform group-hover:scale-110" />
               {itemCount > 0 && (
-                <span className="absolute -top-0.5 -right-0.5 w-4 h-4 rounded-full bg-white text-black text-[10px] font-bold flex items-center justify-center animate-pulse shadow-md">
+                <span className="absolute -top-0.5 -right-0.5 w-3.5 h-3.5 rounded-full bg-white text-black text-[9px] font-bold flex items-center justify-center shadow-md">
                   {itemCount}
                 </span>
               )}
             </button>
 
-            {/* Premium Buy CTA */}
+            {/* Premium Explore Store CTA */}
             <a
               href="#iphone-lineup"
               onClick={(e) => {
                 e.preventDefault();
                 const el = document.getElementById('iphone-lineup');
                 if (el) {
-                  if (window.lenis) window.lenis.scrollTo(el, { offset: -70 });
+                  if (window.lenis) window.lenis.scrollTo(el, { offset: -60 });
                   else el.scrollIntoView({ behavior: 'smooth' });
                 }
               }}
-              className="hidden sm:inline-flex items-center gap-1.5 px-4 py-1.5 text-xs font-medium tracking-tight text-black bg-white rounded-full hover:bg-neutral-200 transition-all duration-200 hover:shadow-[0_0_15px_rgba(255,255,255,0.3)] hover:-translate-y-0.5 active:translate-y-0 cursor-pointer"
+              className="hidden sm:inline-flex items-center gap-1.5 px-3.5 py-1 text-[11px] font-medium tracking-tight text-black bg-white rounded-full hover:bg-neutral-200 transition-all duration-200 hover:shadow-[0_0_15px_rgba(255,255,255,0.25)] cursor-pointer"
             >
               <span>Explore Store</span>
-              <ArrowUpRight className="w-3.5 h-3.5" />
+              <ArrowUpRight className="w-3 h-3" />
             </a>
 
             {/* Mobile Hamburger Button */}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="md:hidden p-2 rounded-full text-neutral-300 hover:text-white hover:bg-white/10 transition-colors focus:outline-none cursor-pointer"
+              className="md:hidden p-1.5 rounded-full text-neutral-300 hover:text-white hover:bg-white/10 transition-colors focus:outline-none cursor-pointer"
               aria-label="Toggle menu"
             >
-              {mobileMenuOpen ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+              {mobileMenuOpen ? <X className="w-4 h-4" /> : <Menu className="w-4 h-4" />}
             </button>
           </div>
         </div>
@@ -177,7 +155,7 @@ export const Navbar = () => {
 
       {/* Mobile Drawer Menu */}
       <div
-        className={`fixed inset-0 z-40 bg-black/95 backdrop-blur-3xl pt-24 px-6 pb-8 transition-all duration-500 md:hidden flex flex-col justify-between ${
+        className={`fixed inset-0 z-40 bg-black/95 backdrop-blur-3xl pt-20 px-6 pb-8 transition-all duration-300 md:hidden flex flex-col justify-between ${
           mobileMenuOpen
             ? 'opacity-100 pointer-events-auto translate-y-0'
             : 'opacity-0 pointer-events-none -translate-y-4'
@@ -197,7 +175,7 @@ export const Navbar = () => {
           </div>
 
           <div className="flex flex-col space-y-4">
-            {navLinks.map((link, idx) => (
+            {navLinks.map((link) => (
               <a
                 key={link.name}
                 href={link.path || '#'}
@@ -206,7 +184,6 @@ export const Navbar = () => {
                   handleLinkClick(link, e);
                 }}
                 className="text-2xl font-light tracking-tight text-neutral-200 hover:text-white flex items-center justify-between py-1 transition-colors"
-                style={{ transitionDelay: `${idx * 40}ms` }}
               >
                 <span>{link.name}</span>
                 {link.badge ? (
@@ -220,7 +197,6 @@ export const Navbar = () => {
             ))}
           </div>
 
-          {/* Quick search input in mobile drawer */}
           <button
             onClick={() => {
               setMobileMenuOpen(false);
@@ -233,7 +209,6 @@ export const Navbar = () => {
           </button>
         </div>
 
-        {/* Mobile footer CTA */}
         <div className="pt-6 border-t border-white/10 space-y-3">
           <button
             onClick={() => {
