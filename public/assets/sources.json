@@ -1,0 +1,738 @@
+[
+  {
+    "local": "/assets/iphone-18-pro-card.jpg",
+    "url": "https://www.apple.com/in/iphone/home/images/overview/select/iphone_18_pro__dj48ysc0yagm_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-hero.jpg",
+    "url": "https://www.apple.com/v/iphone-18-pro/a/images/overview/media-hero/hero_endframe__fbxsnz8txcia_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-view-0.jpg",
+    "url": "https://www.apple.com/v/iphone-18-pro/a/images/overview/product-viewer/3d_viewer__hgotqf9hvvee_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-view-1.jpg",
+    "url": "https://www.apple.com/v/iphone-18-pro/a/images/overview/product-viewer/color_burgundy__f95it7a6dnyq_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-view-2.jpg",
+    "url": "https://www.apple.com/v/iphone-18-pro/a/images/overview/product-viewer/color_glacier__fkxlpbz0ruy6_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-view-5.jpg",
+    "url": "https://www.apple.com/in/iphone-18-pro/images/overview/product-viewer/size__ufk3tqa1f5e2_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-view-3.jpg",
+    "url": "https://www.apple.com/v/iphone-18-pro/a/images/overview/product-viewer/color_silver__c0oudn0fzw4m_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-view-4.jpg",
+    "url": "https://www.apple.com/v/iphone-18-pro/a/images/overview/product-viewer/color_black__dseo2tvypuc2_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-burgundy.jpg",
+    "url": "https://www.apple.com/v/iphone-18-pro/a/images/overview/product-viewer/color_burgundy__f95it7a6dnyq_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-glacier.jpg",
+    "url": "https://www.apple.com/v/iphone-18-pro/a/images/overview/product-viewer/color_glacier__fkxlpbz0ruy6_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-silver.jpg",
+    "url": "https://www.apple.com/v/iphone-18-pro/a/images/overview/product-viewer/color_silver__c0oudn0fzw4m_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-18-pro-black.jpg",
+    "url": "https://www.apple.com/v/iphone-18-pro/a/images/overview/product-viewer/color_black__dseo2tvypuc2_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-duo-card.jpg",
+    "url": "https://www.apple.com/v/iphone/home/ck/images/overview/select/iphone_duo__hefmlegzwbmi_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-duo-hero.jpg",
+    "url": "https://www.apple.com/in/iphone-duo/images/overview/media-hero/hero_endframe__gdt3l3spaqie_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-duo-view-0.jpg",
+    "url": "https://www.apple.com/in/iphone-duo/images/overview/product-viewer/display__bx48n0ntsgvm_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-duo-view-5.jpg",
+    "url": "https://www.apple.com/v/iphone-duo/a/images/overview/product-viewer/laptop__c7kl6vmsqd6q_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-duo-view-1.jpg",
+    "url": "https://www.apple.com/in/iphone-duo/images/overview/product-viewer/foldable__iybtpzlhgj6u_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-duo-view-2.jpg",
+    "url": "https://www.apple.com/in/iphone-duo/images/overview/product-viewer/landscape__f7x2oe1oxemy_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-duo-view-4.jpg",
+    "url": "https://www.apple.com/v/iphone-duo/a/images/overview/product-viewer/closed__3le61imm1w2e_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-duo-view-3.jpg",
+    "url": "https://www.apple.com/in/iphone-duo/images/overview/product-viewer/portrait__15lry9l2g8ye_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-air-card.jpg",
+    "url": "https://www.apple.com/v/iphone/home/ck/images/overview/select/iphone_air__b5qmgl05ojyq_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-air-hero.jpg",
+    "url": "https://www.apple.com/v/iphone-air/i/images/overview/welcome/hero_endframe__fjhlsvwr03ma_xlarge.jpg"
+  },
+  {
+    "local": "/assets/iphone-air-view-2.jpg",
+    "url": "https://www.apple.com/v/iphone-air/i/images/overview/product-viewer/color_static_white__bsqapwl67oj6_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-air-view-1.jpg",
+    "url": "https://www.apple.com/v/iphone-air/i/images/overview/product-viewer/color_static_gold__d1p7qgdkczo2_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-air-view-3.jpg",
+    "url": "https://www.apple.com/v/iphone-air/i/images/overview/product-viewer/color_static_black__bavqefsedg82_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-air-view-5.jpg",
+    "url": "https://www.apple.com/v/iphone-air/i/images/overview/product-viewer/plateau__fkenhllruiy6_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-air-view-4.jpg",
+    "url": "https://www.apple.com/v/iphone-air/i/images/overview/product-viewer/titanium__e0m72tffcsuq_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-air-view-0.jpg",
+    "url": "https://www.apple.com/v/iphone-air/i/images/overview/product-viewer/color_static_ultramarine__cgfuoct82biu_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-card.jpg",
+    "url": "https://www.apple.com/in/iphone/home/images/overview/select/iphone_17__fb1277oq3eaa_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-hero.jpg",
+    "url": "https://www.apple.com/in/iphone-17/images/overview/welcome/hero_startframe__fslo8k8lane6_xlarge.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-view-1.jpg",
+    "url": "https://www.apple.com/v/iphone-17/i/images/overview/product-viewer/colors_lavender__bcaie9a8npj6_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-view-2.jpg",
+    "url": "https://www.apple.com/v/iphone-17/i/images/overview/product-viewer/colors_sage__cr1jt90v1yoi_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-view-3.jpg",
+    "url": "https://www.apple.com/v/iphone-17/i/images/overview/product-viewer/colors_mist_blue__700uff6zu2qa_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-view-4.jpg",
+    "url": "https://www.apple.com/v/iphone-17/i/images/overview/product-viewer/colors_white__979ypubjzdum_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-view-0.jpg",
+    "url": "https://www.apple.com/in/iphone-17/images/overview/product-viewer/initial__dplc9g66mywm_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-view-5.jpg",
+    "url": "https://www.apple.com/v/iphone-17/i/images/overview/product-viewer/colors_black__fzuhc3kqvmq2_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-lavender.jpg",
+    "url": "https://www.apple.com/v/iphone-17/i/images/overview/product-viewer/colors_lavender__bcaie9a8npj6_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-sage.jpg",
+    "url": "https://www.apple.com/v/iphone-17/i/images/overview/product-viewer/colors_sage__cr1jt90v1yoi_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-mist-blue.jpg",
+    "url": "https://www.apple.com/v/iphone-17/i/images/overview/product-viewer/colors_mist_blue__700uff6zu2qa_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-white.jpg",
+    "url": "https://www.apple.com/v/iphone-17/i/images/overview/product-viewer/colors_white__979ypubjzdum_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17-black.jpg",
+    "url": "https://www.apple.com/v/iphone-17/i/images/overview/product-viewer/colors_black__fzuhc3kqvmq2_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17e-card.jpg",
+    "url": "https://www.apple.com/in/iphone/home/images/overview/select/iphone_17e__cq5ygzct314y_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17e-hero.jpg",
+    "url": "https://www.apple.com/in/iphone-17e/images/overview/welcome/hero_endframe__eafizd06t6qa_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17e-view-0.jpg",
+    "url": "https://www.apple.com/in/iphone-17e/images/overview/welcome/hero_endframe__eafizd06t6qa_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17e-view-2.jpg",
+    "url": "https://www.apple.com/in/iphone-17e/images/overview/highlights/highlights_magsafe_endframe__ec0sz2qsgt4y_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17e-view-1.jpg",
+    "url": "https://www.apple.com/in/iphone-17e/images/overview/highlights/highlights_design_endframe__crx8inqsi8k2_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17e-view-3.jpg",
+    "url": "https://www.apple.com/v/iphone-17e/e/images/overview/highlights/highlights_camera_endframe__bivi4v53hlde_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-17e-view-4.jpg",
+    "url": "https://www.apple.com/in/iphone-17e/images/overview/highlights/highlights_performance_endframe__ekv6e0y3h84m_large.jpg"
+  },
+  {
+    "local": "/assets/iphone-16-card.jpg",
+    "url": "https://www.apple.com/in/iphone/home/images/overview/select/iphone_16__b6tkv86m2gc2_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-air-card.jpg",
+    "url": "https://www.apple.com/assets-www/en_WW/mac/04_product_tile/large/mba_13_15_e733a3435.jpg"
+  },
+  {
+    "local": "/assets/macbook-air-hero.png",
+    "url": "https://www.apple.com/v/macbook-air/z/images/overview/hero/hero_endframe__c67cz35iy9me_large.png"
+  },
+  {
+    "local": "/assets/macbook-air-view-0.png",
+    "url": "https://www.apple.com/v/macbook-air/z/images/overview/hero/hero_endframe__c67cz35iy9me_large.png"
+  },
+  {
+    "local": "/assets/macbook-air-view-3.jpg",
+    "url": "https://www.apple.com/v/macbook-air/z/images/overview/highlights/mx_chip__c9p5me36dgae_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-air-view-2.jpg",
+    "url": "https://www.apple.com/v/macbook-air/z/images/overview/highlights/mx_chip_endframe__bjtjjh2urgoi_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-air-view-4.jpg",
+    "url": "https://www.apple.com/v/macbook-air/z/images/overview/highlights/battery__geuvrre3336u_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-air-view-1.png",
+    "url": "https://www.apple.com/v/macbook-air/z/images/overview/hero/hero_static__c9sislzzicq6_large.png"
+  },
+  {
+    "local": "/assets/macbook-air-sky-blue.jpg",
+    "url": "https://www.apple.com/v/macbook-air/z/images/overview/design/color/design_top_skyblue__eepkvlvjzcia_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-air-silver.jpg",
+    "url": "https://www.apple.com/v/macbook-air/z/images/overview/design/color/design_top_silver__dcf8hwixw2uu_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-air-starlight.jpg",
+    "url": "https://www.apple.com/v/macbook-air/z/images/overview/design/color/design_top_starlight__dtojfd6ibywm_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-air-midnight.jpg",
+    "url": "https://www.apple.com/v/macbook-air/z/images/overview/design/color/design_top_midnight__fvf2p6124tqq_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-card.jpg",
+    "url": "https://www.apple.com/assets-www/en_WW/mac/04_product_tile/large/mbn_37b3fdaaf.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-hero.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/welcome/hero_endframe__c62q483im5si_xlarge.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-view-3.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/product-viewer/pv_colors_citrus__flplef60bpim_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-view-1.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/product-viewer/pv_colors_silver__bhbd7o8mxxzm_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-view-0.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/product-viewer/pv_hero_endframe__czpdxe2dmawm_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-view-4.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/product-viewer/pv_colors_indigo__ee1m3vsakryq_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-view-2.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/product-viewer/pv_colors_blush__fji4uke74w2m_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-view-5.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/product-viewer/pv_durable__d5xca9ckjjwy_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-citrus.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/product-viewer/pv_colors_citrus__flplef60bpim_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-blush.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/product-viewer/pv_colors_blush__fji4uke74w2m_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-indigo.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/product-viewer/pv_colors_indigo__ee1m3vsakryq_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-silver.jpg",
+    "url": "https://www.apple.com/v/macbook-neo/b/images/overview/product-viewer/pv_colors_silver__bhbd7o8mxxzm_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-neo-motion.mp4",
+    "url": "https://www.apple.com/105/media/us/macbook-neo/2026/eee281c9-06d4-45d9-9a37-ef16ad413279/anim/hero/large.mp4"
+  },
+  {
+    "local": "/assets/macbook-pro-card.jpg",
+    "url": "https://www.apple.com/assets-www/en_WW/mac/04_product_tile/large/mbp_14_16_fa5e3a2b2.jpg"
+  },
+  {
+    "local": "/assets/macbook-pro-hero.jpg",
+    "url": "https://www.apple.com/v/macbook-pro/ax/images/overview/welcome/hero_endframe__fwev9ebh42mq_xlarge.jpg"
+  },
+  {
+    "local": "/assets/macbook-pro-view-0.jpg",
+    "url": "https://www.apple.com/v/macbook-pro/ax/images/overview/product-viewer/pv_hero_endframe__gc89p7dw1syi_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-pro-view-2.jpg",
+    "url": "https://www.apple.com/v/macbook-pro/ax/images/overview/product-viewer/pv_colors_spaceblack__dwfpyrbaf4cy_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-pro-view-3.jpg",
+    "url": "https://www.apple.com/v/macbook-pro/ax/images/overview/product-viewer/pv_colors_silver__doa20s4tupaq_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-pro-view-4.jpg",
+    "url": "https://www.apple.com/v/macbook-pro/ax/images/overview/product-viewer/pv_display__fv0jzlzaak2u_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-pro-view-1.jpg",
+    "url": "https://www.apple.com/v/macbook-pro/ax/images/overview/product-viewer/pv_sizes_endframe__eydbew72wkom_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-pro-view-5.jpg",
+    "url": "https://www.apple.com/v/macbook-pro/ax/images/overview/product-viewer/pv_connectivity__27f84rcgb42e_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-pro-space-black.jpg",
+    "url": "https://www.apple.com/v/macbook-pro/ax/images/overview/product-viewer/pv_colors_spaceblack__dwfpyrbaf4cy_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-pro-silver.jpg",
+    "url": "https://www.apple.com/v/macbook-pro/ax/images/overview/product-viewer/pv_colors_silver__doa20s4tupaq_large.jpg"
+  },
+  {
+    "local": "/assets/macbook-pro-motion.mp4",
+    "url": "https://www.apple.com/105/media/us/macbook-pro/2025/785e1bc4-d1bd-4cf4-b1b3-94b9411c9e74/anim/hero/large.mp4"
+  },
+  {
+    "local": "/assets/imac-card.jpg",
+    "url": "https://www.apple.com/assets-www/en_WW/mac/04_product_tile/large/imac_24_7732743f3.jpg"
+  },
+  {
+    "local": "/assets/imac-hero.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/welcome/welcome_hero_endframe__dzokoxvtgr8m_xlarge.jpg"
+  },
+  {
+    "local": "/assets/imac-view-0.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/closer-look/colors_pf_blue__bshbmf5v5rki_xlarge.jpg"
+  },
+  {
+    "local": "/assets/imac-view-1.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/closer-look/colors_pf_blue__bshbmf5v5rki_large.jpg"
+  },
+  {
+    "local": "/assets/imac-view-3.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/closer-look/colors_pf_purple__cyowkzb9ouaa_large.jpg"
+  },
+  {
+    "local": "/assets/imac-view-5.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/closer-look/colors_pf_pink__dqtexhnsnm6a_large.jpg"
+  },
+  {
+    "local": "/assets/imac-view-4.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/closer-look/colors_pf_pink__dqtexhnsnm6a_xlarge.jpg"
+  },
+  {
+    "local": "/assets/imac-view-2.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/closer-look/colors_pf_purple__cyowkzb9ouaa_xlarge.jpg"
+  },
+  {
+    "local": "/assets/imac-blue.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/closer-look/colors_pf_blue__bshbmf5v5rki_xlarge.jpg"
+  },
+  {
+    "local": "/assets/imac-pink.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/closer-look/colors_pf_pink__dqtexhnsnm6a_xlarge.jpg"
+  },
+  {
+    "local": "/assets/imac-green.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/closer-look/colors_pf_green__g2nykdik58qe_xlarge.jpg"
+  },
+  {
+    "local": "/assets/imac-silver.jpg",
+    "url": "https://www.apple.com/v/imac/w/images/overview/closer-look/colors_pf_silver__ca050r3wnpsi_xlarge.jpg"
+  },
+  {
+    "local": "/assets/mac-mini-card.jpg",
+    "url": "https://www.apple.com/assets-www/en_WW/mac/04_product_tile/large/mac_mini_d300dfe42.jpg"
+  },
+  {
+    "local": "/assets/mac-mini-hero.jpg",
+    "url": "https://www.apple.com/v/mac-mini/ab/images/overview/welcome/hero_endframe__d9kro8y76v42_large.jpg"
+  },
+  {
+    "local": "/assets/mac-mini-view-1.jpg",
+    "url": "https://www.apple.com/v/mac-mini/ab/images/overview/welcome/hero_endframe__d9kro8y76v42_large.jpg"
+  },
+  {
+    "local": "/assets/mac-mini-view-3.jpg",
+    "url": "https://www.apple.com/v/mac-mini/ab/images/overview/highlights/highlights_mx_endframe__exbgjg263l6q_large.jpg"
+  },
+  {
+    "local": "/assets/mac-mini-view-0.jpg",
+    "url": "https://www.apple.com/v/mac-mini/ab/images/overview/welcome/welcome_hero__ckmy0qsqi8ia_large.jpg"
+  },
+  {
+    "local": "/assets/mac-mini-view-2.jpg",
+    "url": "https://www.apple.com/v/mac-mini/ab/images/overview/highlights/highlights_mx_endframe__exbgjg263l6q_xlarge.jpg"
+  },
+  {
+    "local": "/assets/mac-mini-view-4.jpg",
+    "url": "https://www.apple.com/v/mac-mini/ab/images/overview/highlights/highlights_apple_intelligence__dr9hgt196xme_xlarge.jpg"
+  },
+  {
+    "local": "/assets/mac-studio-card.jpg",
+    "url": "https://www.apple.com/assets-www/en_WW/mac/04_product_tile/large/mac_studio_e9f221da0.jpg"
+  },
+  {
+    "local": "/assets/mac-studio-hero.jpg",
+    "url": "https://www.apple.com/v/mac-studio/n/images/overview/hero/static_front__fmvxob6uyxiu_large.jpg"
+  },
+  {
+    "local": "/assets/mac-studio-view-0.jpg",
+    "url": "https://www.apple.com/v/mac-studio/n/images/overview/hero/static_front__fmvxob6uyxiu_large.jpg"
+  },
+  {
+    "local": "/assets/mac-studio-view-2.jpg",
+    "url": "https://www.apple.com/v/mac-studio/n/images/overview/hero/mx_ultra__b7zrsiv2zomq_large.jpg"
+  },
+  {
+    "local": "/assets/mac-studio-view-1.jpg",
+    "url": "https://www.apple.com/v/mac-studio/n/images/overview/hero/mx_max__f9o887nvw2mq_large.jpg"
+  },
+  {
+    "local": "/assets/mac-studio-view-3.jpg",
+    "url": "https://www.apple.com/v/mac-studio/n/images/overview/ai/hero__d0yd117u6qy6_large.jpg"
+  },
+  {
+    "local": "/assets/mac-studio-view-4.jpg",
+    "url": "https://www.apple.com/v/mac-studio/n/images/overview/design/form/design_hero__8pxwegbxdcie_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-pro-card.png",
+    "url": "https://www.apple.com/assets-www/en_WW/ipad/03_product_tile/large/ipad_pro_b15908d8a.png"
+  },
+  {
+    "local": "/assets/ipad-pro-hero.jpg",
+    "url": "https://www.apple.com/v/ipad-pro/aw/images/overview/hero/hero_endframe__du5kcy4qnxkm_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-pro-view-2.jpg",
+    "url": "https://www.apple.com/v/ipad-pro/aw/images/overview/closer-look/space-black/slide_1B__fxu0jie3i0ya_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-pro-view-3.jpg",
+    "url": "https://www.apple.com/v/ipad-pro/aw/images/overview/closer-look/silver/slide_1B__fxu0jie3i0ya_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-pro-view-1.jpg",
+    "url": "https://www.apple.com/v/ipad-pro/aw/images/overview/closer-look/silver/slide_1A__gnqepv0kr3ee_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-pro-view-0.jpg",
+    "url": "https://www.apple.com/v/ipad-pro/aw/images/overview/closer-look/space-black/slide_1A__gnqepv0kr3ee_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-pro-view-5.jpg",
+    "url": "https://www.apple.com/v/ipad-pro/aw/images/overview/closer-look/silver/slide_2A__dcf0qa7zqb2a_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-pro-view-4.jpg",
+    "url": "https://www.apple.com/v/ipad-pro/aw/images/overview/closer-look/space-black/slide_2A__dcf0qa7zqb2a_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-air-card.png",
+    "url": "https://www.apple.com/assets-www/en_WW/ipad/03_product_tile/large/ipad_air_000dd2f9c.png"
+  },
+  {
+    "local": "/assets/ipad-air-hero.png",
+    "url": "https://www.apple.com/v/ipad-air/ah/images/overview/hero/hero_endframe__6gl84bccyaqi_large.png"
+  },
+  {
+    "local": "/assets/ipad-air-view-0.jpg",
+    "url": "https://www.apple.com/v/ipad-air/ah/images/overview/closer-look/all-colors/slide_1A__u8zw91uc6iaq_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-air-view-5.jpg",
+    "url": "https://www.apple.com/v/ipad-air/ah/images/overview/closer-look/all-colors/slide_2A__p74br7miwoiq_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-air-view-3.jpg",
+    "url": "https://www.apple.com/v/ipad-air/ah/images/overview/closer-look/purple/slide_1A__u8zw91uc6iaq_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-air-view-4.jpg",
+    "url": "https://www.apple.com/v/ipad-air/ah/images/overview/closer-look/starlight/slide_1A__u8zw91uc6iaq_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-air-view-1.jpg",
+    "url": "https://www.apple.com/v/ipad-air/ah/images/overview/closer-look/space-gray/slide_1A__u8zw91uc6iaq_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-air-view-2.jpg",
+    "url": "https://www.apple.com/v/ipad-air/ah/images/overview/closer-look/blue/slide_1A__u8zw91uc6iaq_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-11-card.png",
+    "url": "https://www.apple.com/assets-www/en_WW/ipad/03_product_tile/large/ipad_07e11a653.png"
+  },
+  {
+    "local": "/assets/ipad-11-hero.jpg",
+    "url": "https://www.apple.com/in/ipad-11/images/overview/hero/hero__ecv967jz1y82_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-11-view-0.jpg",
+    "url": "https://www.apple.com/in/ipad-11/images/overview/hero/hero__ecv967jz1y82_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-mini-card.png",
+    "url": "https://www.apple.com/assets-www/en_WW/ipad/03_product_tile/large/ipad_mini_cde3db6eb.png"
+  },
+  {
+    "local": "/assets/ipad-mini-hero.png",
+    "url": "https://www.apple.com/in/ipad-mini/images/overview/hero/hero_endframe__gnx9z3uu3t6q_large.png"
+  },
+  {
+    "local": "/assets/ipad-mini-view-0.png",
+    "url": "https://www.apple.com/v/ipad-mini/v/images/overview/hero/landscape__gxui1v022sae_large.png"
+  },
+  {
+    "local": "/assets/ipad-mini-view-1.jpg",
+    "url": "https://www.apple.com/in/ipad-mini/images/overview/hero/fan__cyid3h2vl0wi_large.jpg"
+  },
+  {
+    "local": "/assets/ipad-mini-view-2.png",
+    "url": "https://www.apple.com/in/ipad-mini/images/overview/hero/hero_endframe__gnx9z3uu3t6q_large.png"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-card.png",
+    "url": "https://www.apple.com/assets-www/en_IN/watch/01_product_tile/large/s12_f529dba46.png"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-hero.jpg",
+    "url": "https://www.apple.com/v/apple-watch-series-12/a/images/overview/media-hero/hero_endframe__e3wgo83nx5ci_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-view-2.jpg",
+    "url": "https://www.apple.com/v/apple-watch-series-12/a/images/overview/product-viewer/product_finishes_ceramic_night_blue__c86m67tq2c8y_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-view-5.jpg",
+    "url": "https://www.apple.com/in/apple-watch-series-12/images/overview/product-viewer/product_finishes_aluminum_black__ebajxwacb88y_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-view-0.jpg",
+    "url": "https://www.apple.com/v/apple-watch-series-12/a/images/overview/product-viewer/product_finishes_landing__h1a6u2lmlhm6_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-view-3.jpg",
+    "url": "https://www.apple.com/in/apple-watch-series-12/images/overview/product-viewer/product_finishes_aluminum_dark_bronze__cn6ty9h5yliu_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-view-1.jpg",
+    "url": "https://www.apple.com/v/apple-watch-series-12/a/images/overview/product-viewer/product_finishes_ceramic_pearl_white__m797y0r8nsqy_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-view-4.jpg",
+    "url": "https://www.apple.com/in/apple-watch-series-12/images/overview/product-viewer/product_finishes_aluminum_light_gold__cr815xqxzoia_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-dark-bronze.jpg",
+    "url": "https://www.apple.com/in/apple-watch-series-12/images/overview/product-viewer/product_finishes_aluminum_dark_bronze__cn6ty9h5yliu_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-light-gold.jpg",
+    "url": "https://www.apple.com/in/apple-watch-series-12/images/overview/product-viewer/product_finishes_aluminum_light_gold__cr815xqxzoia_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-series-12-black.jpg",
+    "url": "https://www.apple.com/in/apple-watch-series-12/images/overview/product-viewer/product_finishes_aluminum_black__ebajxwacb88y_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-ultra-4-card.png",
+    "url": "https://www.apple.com/assets-www/en_IN/watch/01_product_tile/large/u4_5133b59ee.png"
+  },
+  {
+    "local": "/assets/apple-watch-ultra-4-hero.jpg",
+    "url": "https://www.apple.com/in/apple-watch-ultra-4/images/overview/media-hero/hero_endframe__bhft73uaplpu_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-ultra-4-view-0.jpg",
+    "url": "https://www.apple.com/in/apple-watch-ultra-4/images/overview/product-viewer/product_finishes__dbkgeoads3e6_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-ultra-4-view-1.jpg",
+    "url": "https://www.apple.com/in/apple-watch-ultra-4/images/overview/product-viewer/product_finishes_black__d8fehns3thg2_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-ultra-4-view-3.jpg",
+    "url": "https://www.apple.com/v/apple-watch-ultra-4/a/images/overview/product-viewer/product_health_sensing_endframe__csfpe8mokp4y_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-ultra-4-view-5.jpg",
+    "url": "https://www.apple.com/in/apple-watch-ultra-4/images/overview/product-viewer/product_durability__gf8brtp59qmq_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-ultra-4-view-2.jpg",
+    "url": "https://www.apple.com/in/apple-watch-ultra-4/images/overview/product-viewer/product_finishes_natural__fcf2wz3wghea_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-ultra-4-view-4.jpg",
+    "url": "https://www.apple.com/v/apple-watch-ultra-4/a/images/overview/product-viewer/product_health_sensing__cxww807cgnsm_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-ultra-4-natural.jpg",
+    "url": "https://www.apple.com/in/apple-watch-ultra-4/images/overview/product-viewer/product_finishes_natural__fcf2wz3wghea_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-ultra-4-black.jpg",
+    "url": "https://www.apple.com/in/apple-watch-ultra-4/images/overview/product-viewer/product_finishes_black__d8fehns3thg2_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-se-card.png",
+    "url": "https://www.apple.com/assets-www/en_IN/watch/01_product_tile/large/se3_4071a54e1.png"
+  },
+  {
+    "local": "/assets/apple-watch-se-hero.jpg",
+    "url": "https://www.apple.com/in/apple-watch-se-3/images/overview/welcome/hero__fnvi3x49ydei_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-se-view-5.jpg",
+    "url": "https://www.apple.com/in/apple-watch-se-3/images/overview/product-viewer/product_display__d8qh865laqie_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-se-view-2.jpg",
+    "url": "https://www.apple.com/in/apple-watch-se-3/images/overview/product-viewer/product_finishes_midnight__jgmf0mnpvwq6_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-se-view-1.jpg",
+    "url": "https://www.apple.com/in/apple-watch-se-3/images/overview/product-viewer/product_finishes_starlight__enr6i85tuqwm_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-se-view-3.jpg",
+    "url": "https://www.apple.com/in/apple-watch-se-3/images/overview/product-viewer/product_health_sensors__c3xtx4ix08cy_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-se-view-0.jpg",
+    "url": "https://www.apple.com/in/apple-watch-se-3/images/overview/product-viewer/product_finishes__dluijwwmh7ue_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-se-view-4.jpg",
+    "url": "https://www.apple.com/in/apple-watch-se-3/images/overview/product-viewer/product_motion_sensors__d15xde8xsc6e_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-se-starlight.jpg",
+    "url": "https://www.apple.com/in/apple-watch-se-3/images/overview/product-viewer/product_finishes_starlight__enr6i85tuqwm_large.jpg"
+  },
+  {
+    "local": "/assets/apple-watch-se-midnight.jpg",
+    "url": "https://www.apple.com/in/apple-watch-se-3/images/overview/product-viewer/product_finishes_midnight__jgmf0mnpvwq6_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-5-card.jpg",
+    "url": "https://www.apple.com/v/airpods-5/a/images/overview/welcome/hero__b73eeaa6ps9y_xlarge.jpg"
+  },
+  {
+    "local": "/assets/airpods-5-hero.jpg",
+    "url": "https://www.apple.com/v/airpods-5/a/images/overview/welcome/hero__b73eeaa6ps9y_xlarge.jpg"
+  },
+  {
+    "local": "/assets/airpods-5-view-0.jpg",
+    "url": "https://www.apple.com/v/airpods-5/a/images/overview/welcome/hero__b73eeaa6ps9y_xlarge.jpg"
+  },
+  {
+    "local": "/assets/airpods-5-view-2.jpg",
+    "url": "https://www.apple.com/v/airpods-5/a/images/overview/media-card/highlights_xray_endframe__c5vg1gj24r8m_xlarge.jpg"
+  },
+  {
+    "local": "/assets/airpods-5-view-1.jpg",
+    "url": "https://www.apple.com/v/airpods-5/a/images/overview/welcome/hero__b73eeaa6ps9y_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-5-view-3.jpg",
+    "url": "https://www.apple.com/v/airpods-5/a/images/overview/media-card/highlights_xray_endframe__c5vg1gj24r8m_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-5-view-4.jpg",
+    "url": "https://www.apple.com/v/airpods-5/a/images/overview/media-card/highlights_siri_endframe__emhoskg0o9aq_xlarge.jpg"
+  },
+  {
+    "local": "/assets/airpods-pro-card.jpg",
+    "url": "https://www.apple.com/v/airpods-pro/t/images/overview/welcome/hero_endframe__vzawkxxoc72u_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-pro-hero.jpg",
+    "url": "https://www.apple.com/v/airpods-pro/t/images/overview/welcome/hero_endframe__vzawkxxoc72u_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-pro-view-3.jpg",
+    "url": "https://www.apple.com/v/airpods-pro/t/images/overview/product-viewer/closer_look_fit_feel__blsfw2dgyj6q_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-pro-view-1.jpg",
+    "url": "https://www.apple.com/v/airpods-pro/t/images/overview/product-viewer/initial_endframe__erf54wvsplsi_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-pro-view-0.jpg",
+    "url": "https://www.apple.com/v/airpods-pro/t/images/overview/product-viewer/closer_look_initial__cksqga5hm77m_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-pro-view-5.jpg",
+    "url": "https://www.apple.com/v/airpods-pro/t/images/overview/product-viewer/closer_look_heart_rate__bt709o8p7t5y_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-pro-view-2.jpg",
+    "url": "https://www.apple.com/v/airpods-pro/t/images/overview/product-viewer/closer_look_acoustic_a__dz4nc2yr9aqa_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-pro-view-4.jpg",
+    "url": "https://www.apple.com/v/airpods-pro/t/images/overview/product-viewer/fit_feel_endframe__bqbkjxfouqwi_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-max-card.jpg",
+    "url": "https://www.apple.com/v/airpods-max/l/images/overview/welcome/max-loop_startframe__c0vn1ukmh7ma_xlarge.jpg"
+  },
+  {
+    "local": "/assets/airpods-max-hero.jpg",
+    "url": "https://www.apple.com/v/airpods-max/l/images/overview/welcome/max-loop_startframe__c0vn1ukmh7ma_xlarge.jpg"
+  },
+  {
+    "local": "/assets/airpods-max-view-1.jpg",
+    "url": "https://www.apple.com/v/airpods-max/l/images/overview/media-card/highlights_siri_endframe__dorlihk36zma_large.jpg"
+  },
+  {
+    "local": "/assets/airpods-max-view-0.jpg",
+    "url": "https://www.apple.com/v/airpods-max/l/images/overview/media-card/highlights_siri_endframe__dorlihk36zma_xlarge.jpg"
+  }
+]

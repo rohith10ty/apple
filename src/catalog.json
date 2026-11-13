@@ -1,0 +1,1566 @@
+[
+  {
+    "id": "iphone-18-pro",
+    "name": "iPhone 18 Pro",
+    "category": "iPhone",
+    "price": 164900,
+    "tagline": "Pro. Beyond possibility.",
+    "specs": [
+      "A20 Pro chip",
+      "48MP Fusion Main camera",
+      "Variable aperture",
+      "Aluminium unibody"
+    ],
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#69414b"
+      },
+      {
+        "name": "Glacier",
+        "hex": "#ccdbe6"
+      },
+      {
+        "name": "Silver",
+        "hex": "#dddcd9"
+      },
+      {
+        "name": "Black",
+        "hex": "#343434"
+      }
+    ],
+    "variants": [
+      {
+        "label": "256GB",
+        "price": 164900
+      },
+      {
+        "label": "512GB",
+        "price": 189900
+      },
+      {
+        "label": "1TB",
+        "price": 239900
+      }
+    ],
+    "badge": "Pre-order",
+    "source": "https://www.apple.com/in/iphone-18-pro/",
+    "verified": "2026-09-17",
+    "image": "/assets/iphone-18-pro-card.jpg",
+    "hero": "/assets/iphone-18-pro-hero.jpg",
+    "gallery": [
+      "/assets/iphone-18-pro-view-0.jpg",
+      "/assets/iphone-18-pro-view-1.jpg",
+      "/assets/iphone-18-pro-view-2.jpg",
+      "/assets/iphone-18-pro-view-3.jpg",
+      "/assets/iphone-18-pro-view-4.jpg",
+      "/assets/iphone-18-pro-view-5.jpg",
+      "/assets/supplied/iphone-18-pro-lineup.jpg",
+      "/assets/supplied/iphone-18-pro-chip.jpg",
+      "/assets/supplied/iphone-18-pro-design.jpg"
+    ],
+    "video": "",
+    "colorImages": {
+      "Burgundy": "/assets/iphone-18-pro-burgundy.jpg",
+      "Glacier": "/assets/iphone-18-pro-glacier.jpg",
+      "Silver": "/assets/iphone-18-pro-silver.jpg",
+      "Black": "/assets/iphone-18-pro-black.jpg"
+    },
+    "features": [
+      {
+        "label": "Four finishes",
+        "description": "Burgundy, Glacier, Silver and Black. Four finishes for the aluminium design.",
+        "image": "/assets/supplied/iphone-18-pro-lineup.jpg"
+      },
+      {
+        "label": "Variable aperture",
+        "description": "The 48MP Fusion Main camera has a variable aperture to adjust depth of field and light capture.",
+        "image": "/assets/iphone-18-pro-view-0.jpg",
+        "video": "/assets/supplied/iphone-18-pro-aperture.mp4"
+      },
+      {
+        "label": "Vapour chamber",
+        "description": "Explore the next-generation vapour chamber and the thermal design around A20 Pro.",
+        "image": "/assets/iphone-18-pro-view-0.jpg",
+        "video": "/assets/supplied/iphone-18-pro-cooling.mp4"
+      },
+      {
+        "label": "A20 Pro",
+        "description": "A20 Pro brings a Dual 16-core Neural Engine and Neural Accelerators to iPhone.",
+        "image": "/assets/supplied/iphone-18-pro-chip.jpg",
+        "video": "/assets/supplied/iphone-18-pro-performance.mp4"
+      },
+      {
+        "label": "A closer perspective",
+        "description": "See the camera system and finish in detail.",
+        "image": "/assets/supplied/iphone-18-pro-design.jpg"
+      }
+    ]
+  },
+  {
+    "id": "iphone-duo",
+    "name": "iPhone Duo",
+    "category": "iPhone",
+    "price": 299900,
+    "tagline": "A whole new way to unfold.",
+    "specs": [
+      "7.6-inch inner display",
+      "48MP Dual Fusion cameras",
+      "Foldable design",
+      "Split View multitasking"
+    ],
+    "colors": [
+      {
+        "name": "Star White",
+        "hex": "#e8e5de"
+      },
+      {
+        "name": "Night Sky",
+        "hex": "#3d4553"
+      }
+    ],
+    "variants": [
+      {
+        "label": "256GB",
+        "price": 299900
+      },
+      {
+        "label": "512GB",
+        "price": 324900
+      },
+      {
+        "label": "1TB",
+        "price": 374900
+      }
+    ],
+    "badge": "Pre-order 16 Oct",
+    "source": "https://www.apple.com/in/iphone-duo/",
+    "verified": "2026-09-17",
+    "image": "/assets/iphone-duo-card.jpg",
+    "hero": "/assets/iphone-duo-hero.jpg",
+    "gallery": [
+      "/assets/iphone-duo-view-0.jpg",
+      "/assets/iphone-duo-view-1.jpg",
+      "/assets/iphone-duo-view-2.jpg",
+      "/assets/iphone-duo-view-3.jpg",
+      "/assets/iphone-duo-view-4.jpg",
+      "/assets/iphone-duo-view-5.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Display",
+        "description": "Explore the display from a different perspective.",
+        "image": "/assets/iphone-duo-view-0.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/iphone-duo-view-1.jpg"
+      },
+      {
+        "label": "Connectivity",
+        "description": "See the ports and connections.",
+        "image": "/assets/iphone-duo-view-3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "iphone-air",
+    "name": "iPhone Air",
+    "category": "iPhone",
+    "price": 149900,
+    "tagline": "So thin. So much within.",
+    "specs": [
+      "A19 Pro chip",
+      "6.5-inch display",
+      "48MP Fusion camera",
+      "5.6mm thin design"
+    ],
+    "colors": [
+      {
+        "name": "Sky Blue",
+        "hex": "#bed5e4"
+      },
+      {
+        "name": "Light Gold",
+        "hex": "#e7d9bf"
+      },
+      {
+        "name": "Cloud White",
+        "hex": "#e8e8e3"
+      },
+      {
+        "name": "Space Black",
+        "hex": "#33343a"
+      }
+    ],
+    "variants": [
+      {
+        "label": "256GB",
+        "price": 149900
+      },
+      {
+        "label": "512GB",
+        "price": 174900
+      },
+      {
+        "label": "1TB",
+        "price": 224900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/iphone-air/",
+    "verified": "2026-09-17",
+    "image": "/assets/iphone-air-card.jpg",
+    "hero": "/assets/iphone-air-hero.jpg",
+    "gallery": [
+      "/assets/iphone-air-view-0.jpg",
+      "/assets/iphone-air-view-1.jpg",
+      "/assets/iphone-air-view-2.jpg",
+      "/assets/iphone-air-view-3.jpg",
+      "/assets/iphone-air-view-4.jpg",
+      "/assets/iphone-air-view-5.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "So thin. So much within.",
+        "image": "/assets/iphone-air-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/iphone-air-card.jpg"
+      },
+      {
+        "label": "Colours",
+        "description": "Explore the available finishes and choose the one that feels like you.",
+        "image": "/assets/iphone-air-view-0.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/iphone-air-view-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "iphone-17",
+    "name": "iPhone 17",
+    "category": "iPhone",
+    "price": 99900,
+    "tagline": "Colour outside the ordinary.",
+    "specs": [
+      "A19 chip",
+      "6.3-inch display",
+      "48MP Dual Fusion cameras",
+      "Center Stage front camera"
+    ],
+    "colors": [
+      {
+        "name": "Lavender",
+        "hex": "#bdb7d4"
+      },
+      {
+        "name": "Sage",
+        "hex": "#b8c8b5"
+      },
+      {
+        "name": "Mist Blue",
+        "hex": "#b4c3d2"
+      },
+      {
+        "name": "White",
+        "hex": "#eeeeea"
+      },
+      {
+        "name": "Black",
+        "hex": "#373737"
+      }
+    ],
+    "variants": [
+      {
+        "label": "256GB",
+        "price": 99900
+      },
+      {
+        "label": "512GB",
+        "price": 124900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/iphone-17/",
+    "verified": "2026-09-17",
+    "image": "/assets/iphone-17-card.jpg",
+    "hero": "/assets/iphone-17-hero.jpg",
+    "gallery": [
+      "/assets/iphone-17-view-0.jpg",
+      "/assets/iphone-17-view-1.jpg",
+      "/assets/iphone-17-view-2.jpg",
+      "/assets/iphone-17-view-3.jpg",
+      "/assets/iphone-17-view-4.jpg",
+      "/assets/iphone-17-view-5.jpg"
+    ],
+    "video": "",
+    "colorImages": {
+      "Lavender": "/assets/iphone-17-lavender.jpg",
+      "Sage": "/assets/iphone-17-sage.jpg",
+      "Mist Blue": "/assets/iphone-17-mist-blue.jpg",
+      "White": "/assets/iphone-17-white.jpg",
+      "Black": "/assets/iphone-17-black.jpg"
+    },
+    "features": [
+      {
+        "label": "Overview",
+        "description": "Colour outside the ordinary.",
+        "image": "/assets/iphone-17-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/iphone-17-card.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/iphone-17-view-0.jpg"
+      },
+      {
+        "label": "Colours",
+        "description": "Explore the available finishes and choose the one that feels like you.",
+        "image": "/assets/iphone-17-view-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "iphone-17e",
+    "name": "iPhone 17e",
+    "category": "iPhone",
+    "price": 79900,
+    "tagline": "Everything you love. Within reach.",
+    "specs": [
+      "A19 chip",
+      "6.1-inch display",
+      "48MP Fusion camera",
+      "MagSafe"
+    ],
+    "colors": [
+      {
+        "name": "Soft Pink",
+        "hex": "#e9cfce"
+      },
+      {
+        "name": "White",
+        "hex": "#eeede9"
+      },
+      {
+        "name": "Black",
+        "hex": "#343434"
+      }
+    ],
+    "variants": [
+      {
+        "label": "256GB",
+        "price": 79900
+      },
+      {
+        "label": "512GB",
+        "price": 104900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/iphone-17e/",
+    "verified": "2026-09-17",
+    "image": "/assets/iphone-17e-card.jpg",
+    "hero": "/assets/iphone-17e-hero.jpg",
+    "gallery": [
+      "/assets/iphone-17e-view-0.jpg",
+      "/assets/iphone-17e-view-1.jpg",
+      "/assets/iphone-17e-view-2.jpg",
+      "/assets/iphone-17e-view-3.jpg",
+      "/assets/iphone-17e-view-4.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/iphone-17e-view-0.jpg"
+      },
+      {
+        "label": "Camera",
+        "description": "A closer look at the camera and its place in the design.",
+        "image": "/assets/iphone-17e-view-3.jpg"
+      },
+      {
+        "label": "Performance",
+        "description": "A closer look at the technology inside.",
+        "image": "/assets/iphone-17e-view-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "iphone-16",
+    "name": "iPhone 16",
+    "category": "iPhone",
+    "price": 79900,
+    "tagline": "Everyday. Anything but ordinary.",
+    "specs": [
+      "A18 chip",
+      "6.1-inch display",
+      "48MP Fusion camera",
+      "Camera Control"
+    ],
+    "colors": [
+      {
+        "name": "Ultramarine",
+        "hex": "#9095dc"
+      },
+      {
+        "name": "Teal",
+        "hex": "#9ebeb6"
+      },
+      {
+        "name": "Pink",
+        "hex": "#ddb0c9"
+      },
+      {
+        "name": "White",
+        "hex": "#efeee8"
+      },
+      {
+        "name": "Black",
+        "hex": "#343434"
+      }
+    ],
+    "variants": [
+      {
+        "label": "128GB",
+        "price": 79900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/iphone-16/",
+    "verified": "2026-09-17",
+    "image": "/assets/iphone-16-card.jpg",
+    "hero": "/assets/iphone-16-card.jpg",
+    "gallery": [
+      "/assets/iphone-16-card.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "Everyday. Anything but ordinary.",
+        "image": "/assets/iphone-16-card.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/iphone-16-card.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/iphone-16-card.jpg"
+      }
+    ]
+  },
+  {
+    "id": "macbook-air",
+    "name": "MacBook Air",
+    "category": "Mac",
+    "price": 149900,
+    "tagline": "Lightness. At full power.",
+    "specs": [
+      "M5 chip",
+      "13-inch or 15-inch Liquid Retina display",
+      "Up to 18 hours of battery life",
+      "16GB unified memory"
+    ],
+    "colors": [
+      {
+        "name": "Sky Blue",
+        "hex": "#b5c8db"
+      },
+      {
+        "name": "Silver",
+        "hex": "#dcdddf"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#e9ddca"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#3e4552"
+      }
+    ],
+    "variants": [
+      {
+        "label": "512GB",
+        "price": 149900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/macbook-air/",
+    "verified": "2026-09-17",
+    "image": "/assets/macbook-air-card.jpg",
+    "hero": "/assets/macbook-air-hero.png",
+    "gallery": [
+      "/assets/macbook-air-view-0.png",
+      "/assets/macbook-air-view-1.png",
+      "/assets/macbook-air-view-2.jpg",
+      "/assets/macbook-air-view-3.jpg",
+      "/assets/macbook-air-view-4.jpg"
+    ],
+    "video": "/assets/macbook-air-motion.webm",
+    "colorImages": {
+      "Sky Blue": "/assets/macbook-air-sky-blue.jpg",
+      "Silver": "/assets/macbook-air-silver.jpg",
+      "Starlight": "/assets/macbook-air-starlight.jpg",
+      "Midnight": "/assets/macbook-air-midnight.jpg"
+    },
+    "features": [
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/macbook-air-view-0.png"
+      },
+      {
+        "label": "Performance",
+        "description": "A closer look at the technology inside.",
+        "image": "/assets/macbook-air-view-2.jpg"
+      },
+      {
+        "label": "Battery",
+        "description": "Designed to keep up with your day.",
+        "image": "/assets/macbook-air-view-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "macbook-neo",
+    "name": "MacBook Neo",
+    "category": "Mac",
+    "price": 79900,
+    "tagline": "A little colour. A lot of Mac.",
+    "specs": [
+      "A18 Pro chip",
+      "13-inch Liquid Retina display",
+      "Up to 16 hours of battery life",
+      "8GB unified memory"
+    ],
+    "colors": [
+      {
+        "name": "Citrus",
+        "hex": "#dce58a"
+      },
+      {
+        "name": "Blush",
+        "hex": "#e7bdc1"
+      },
+      {
+        "name": "Indigo",
+        "hex": "#969bc6"
+      },
+      {
+        "name": "Silver",
+        "hex": "#dededf"
+      }
+    ],
+    "variants": [
+      {
+        "label": "256GB",
+        "price": 79900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/macbook-neo/",
+    "verified": "2026-09-17",
+    "image": "/assets/macbook-neo-card.jpg",
+    "hero": "/assets/macbook-neo-hero.jpg",
+    "gallery": [
+      "/assets/macbook-neo-view-0.jpg",
+      "/assets/macbook-neo-view-1.jpg",
+      "/assets/macbook-neo-view-2.jpg",
+      "/assets/macbook-neo-view-3.jpg",
+      "/assets/macbook-neo-view-4.jpg",
+      "/assets/macbook-neo-view-5.jpg"
+    ],
+    "video": "/assets/macbook-neo-motion.mp4",
+    "colorImages": {
+      "Citrus": "/assets/macbook-neo-citrus.jpg",
+      "Blush": "/assets/macbook-neo-blush.jpg",
+      "Indigo": "/assets/macbook-neo-indigo.jpg",
+      "Silver": "/assets/macbook-neo-silver.jpg"
+    },
+    "features": [
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/macbook-neo-view-0.jpg"
+      },
+      {
+        "label": "Colours",
+        "description": "Explore the available finishes and choose the one that feels like you.",
+        "image": "/assets/macbook-neo-view-1.jpg"
+      },
+      {
+        "label": "Durability",
+        "description": "Explore the materials and construction.",
+        "image": "/assets/macbook-neo-view-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "macbook-pro",
+    "name": "MacBook Pro",
+    "category": "Mac",
+    "price": 239900,
+    "tagline": "Built for your next big thing.",
+    "specs": [
+      "M5, M5 Pro or M5 Max",
+      "14-inch or 16-inch display",
+      "Liquid Retina XDR",
+      "Up to 24 hours of battery life"
+    ],
+    "colors": [
+      {
+        "name": "Space Black",
+        "hex": "#414141"
+      },
+      {
+        "name": "Silver",
+        "hex": "#d5d7d8"
+      }
+    ],
+    "variants": [
+      {
+        "label": "Base configuration",
+        "price": 239900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/macbook-pro/",
+    "verified": "2026-09-17",
+    "image": "/assets/macbook-pro-card.jpg",
+    "hero": "/assets/macbook-pro-hero.jpg",
+    "gallery": [
+      "/assets/macbook-pro-view-0.jpg",
+      "/assets/macbook-pro-view-1.jpg",
+      "/assets/macbook-pro-view-2.jpg",
+      "/assets/macbook-pro-view-3.jpg",
+      "/assets/macbook-pro-view-4.jpg",
+      "/assets/macbook-pro-view-5.jpg"
+    ],
+    "video": "/assets/macbook-pro-motion.mp4",
+    "colorImages": {
+      "Space Black": "/assets/macbook-pro-space-black.jpg",
+      "Silver": "/assets/macbook-pro-silver.jpg"
+    },
+    "features": [
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/macbook-pro-view-0.jpg"
+      },
+      {
+        "label": "Size",
+        "description": "Explore the shape and size.",
+        "image": "/assets/macbook-pro-view-1.jpg"
+      },
+      {
+        "label": "Colours",
+        "description": "Explore the available finishes and choose the one that feels like you.",
+        "image": "/assets/macbook-pro-view-2.jpg"
+      },
+      {
+        "label": "Display",
+        "description": "Explore the display from a different perspective.",
+        "image": "/assets/macbook-pro-view-4.jpg"
+      },
+      {
+        "label": "Connectivity",
+        "description": "See the ports and connections.",
+        "image": "/assets/macbook-pro-view-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "imac",
+    "name": "iMac",
+    "category": "Mac",
+    "price": null,
+    "tagline": "Your desk. Reimagined.",
+    "specs": [
+      "24-inch 4.5K Retina display",
+      "M4 chip",
+      "All-in-one design",
+      "12MP Center Stage camera"
+    ],
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#94bacb"
+      },
+      {
+        "name": "Pink",
+        "hex": "#e4a8ba"
+      },
+      {
+        "name": "Green",
+        "hex": "#a9c5ab"
+      },
+      {
+        "name": "Silver",
+        "hex": "#d6d8d9"
+      }
+    ],
+    "variants": [
+      {
+        "label": "Base configuration",
+        "price": 0
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/imac/",
+    "verified": "2026-09-17",
+    "image": "/assets/imac-card.jpg",
+    "hero": "/assets/imac-hero.jpg",
+    "gallery": [
+      "/assets/imac-view-0.jpg",
+      "/assets/imac-view-1.jpg",
+      "/assets/imac-view-2.jpg",
+      "/assets/imac-view-3.jpg",
+      "/assets/imac-view-4.jpg",
+      "/assets/imac-view-5.jpg"
+    ],
+    "video": "",
+    "colorImages": {
+      "Blue": "/assets/imac-blue.jpg",
+      "Pink": "/assets/imac-pink.jpg",
+      "Green": "/assets/imac-green.jpg",
+      "Silver": "/assets/imac-silver.jpg"
+    },
+    "features": [
+      {
+        "label": "Overview",
+        "description": "Your desk. Reimagined.",
+        "image": "/assets/imac-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/imac-card.jpg"
+      },
+      {
+        "label": "Colours",
+        "description": "Explore the available finishes and choose the one that feels like you.",
+        "image": "/assets/imac-view-0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mac-mini",
+    "name": "Mac mini",
+    "category": "Mac",
+    "price": 99900,
+    "tagline": "Small footprint. Big ambitions.",
+    "specs": [
+      "M6 or M5 Pro",
+      "Compact desktop design",
+      "Thunderbolt connectivity",
+      "Apple Intelligence"
+    ],
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#d6d8d9"
+      }
+    ],
+    "variants": [
+      {
+        "label": "Base configuration",
+        "price": 99900
+      }
+    ],
+    "badge": "Pre-order",
+    "source": "https://www.apple.com/in/mac-mini/",
+    "verified": "2026-09-17",
+    "image": "/assets/mac-mini-card.jpg",
+    "hero": "/assets/mac-mini-hero.jpg",
+    "gallery": [
+      "/assets/mac-mini-view-0.jpg",
+      "/assets/mac-mini-view-1.jpg",
+      "/assets/mac-mini-view-2.jpg",
+      "/assets/mac-mini-view-3.jpg",
+      "/assets/mac-mini-view-4.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "Small footprint. Big ambitions.",
+        "image": "/assets/mac-mini-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/mac-mini-card.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/mac-mini-view-0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mac-studio",
+    "name": "Mac Studio",
+    "category": "Mac",
+    "price": 279900,
+    "tagline": "A studio without limits.",
+    "specs": [
+      "M5 Max or M5 Ultra",
+      "Desktop performance",
+      "Extensive connectivity",
+      "Apple Intelligence"
+    ],
+    "colors": [
+      {
+        "name": "Silver",
+        "hex": "#d6d8d9"
+      }
+    ],
+    "variants": [
+      {
+        "label": "Base configuration",
+        "price": 279900
+      }
+    ],
+    "badge": "Pre-order",
+    "source": "https://www.apple.com/in/mac-studio/",
+    "verified": "2026-09-17",
+    "image": "/assets/mac-studio-card.jpg",
+    "hero": "/assets/mac-studio-hero.jpg",
+    "gallery": [
+      "/assets/mac-studio-view-0.jpg",
+      "/assets/mac-studio-view-1.jpg",
+      "/assets/mac-studio-view-2.jpg",
+      "/assets/mac-studio-view-3.jpg",
+      "/assets/mac-studio-view-4.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "A studio without limits.",
+        "image": "/assets/mac-studio-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/mac-studio-card.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/mac-studio-view-0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ipad-pro",
+    "name": "iPad Pro",
+    "category": "iPad",
+    "price": 139900,
+    "tagline": "A canvas without compromise.",
+    "specs": [
+      "M5 chip",
+      "11-inch or 13-inch display",
+      "Ultra Retina XDR",
+      "Apple Pencil Pro support"
+    ],
+    "colors": [
+      {
+        "name": "Space Black",
+        "hex": "#454548"
+      },
+      {
+        "name": "Silver",
+        "hex": "#dcdcdc"
+      }
+    ],
+    "variants": [
+      {
+        "label": "256GB",
+        "price": 139900
+      },
+      {
+        "label": "512GB",
+        "price": 163900
+      },
+      {
+        "label": "1TB",
+        "price": 211900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/ipad-pro/",
+    "verified": "2026-09-17",
+    "image": "/assets/ipad-pro-card.png",
+    "hero": "/assets/ipad-pro-hero.jpg",
+    "gallery": [
+      "/assets/ipad-pro-view-0.jpg",
+      "/assets/ipad-pro-view-1.jpg",
+      "/assets/ipad-pro-view-2.jpg",
+      "/assets/ipad-pro-view-3.jpg",
+      "/assets/ipad-pro-view-4.jpg",
+      "/assets/ipad-pro-view-5.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "A canvas without compromise.",
+        "image": "/assets/ipad-pro-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/ipad-pro-card.png"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/ipad-pro-view-0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ipad-air",
+    "name": "iPad Air",
+    "category": "iPad",
+    "price": 89900,
+    "tagline": "Fresh air for every idea.",
+    "specs": [
+      "M4 chip",
+      "11-inch or 13-inch display",
+      "Liquid Retina display",
+      "Apple Pencil Pro support"
+    ],
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#b8c9d5"
+      },
+      {
+        "name": "Purple",
+        "hex": "#c4bed6"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#e5ded1"
+      },
+      {
+        "name": "Space Grey",
+        "hex": "#77777c"
+      }
+    ],
+    "variants": [
+      {
+        "label": "128GB",
+        "price": 89900
+      },
+      {
+        "label": "256GB",
+        "price": 101900
+      },
+      {
+        "label": "512GB",
+        "price": 125900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/ipad-air/",
+    "verified": "2026-09-17",
+    "image": "/assets/ipad-air-card.png",
+    "hero": "/assets/ipad-air-hero.png",
+    "gallery": [
+      "/assets/ipad-air-view-0.jpg",
+      "/assets/ipad-air-view-1.jpg",
+      "/assets/ipad-air-view-2.jpg",
+      "/assets/ipad-air-view-3.jpg",
+      "/assets/ipad-air-view-4.jpg",
+      "/assets/ipad-air-view-5.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "Fresh air for every idea.",
+        "image": "/assets/ipad-air-hero.png"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/ipad-air-card.png"
+      },
+      {
+        "label": "Colours",
+        "description": "Explore the available finishes and choose the one that feels like you.",
+        "image": "/assets/ipad-air-view-0.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/ipad-air-view-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ipad-11",
+    "name": "iPad",
+    "category": "iPad",
+    "price": 49900,
+    "tagline": "Make room for imagination.",
+    "specs": [
+      "A16 chip",
+      "11-inch Liquid Retina display",
+      "12MP Wide camera",
+      "USB-C connectivity"
+    ],
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#a9c5e3"
+      },
+      {
+        "name": "Pink",
+        "hex": "#e8b5c4"
+      },
+      {
+        "name": "Yellow",
+        "hex": "#efdf96"
+      },
+      {
+        "name": "Silver",
+        "hex": "#dadce0"
+      }
+    ],
+    "variants": [
+      {
+        "label": "128GB",
+        "price": 49900
+      },
+      {
+        "label": "256GB",
+        "price": 61900
+      },
+      {
+        "label": "512GB",
+        "price": 85900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/ipad-11/",
+    "verified": "2026-09-17",
+    "image": "/assets/ipad-11-card.png",
+    "hero": "/assets/ipad-11-hero.jpg",
+    "gallery": [
+      "/assets/ipad-11-view-0.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "Make room for imagination.",
+        "image": "/assets/ipad-11-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/ipad-11-card.png"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/ipad-11-view-0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "ipad-mini",
+    "name": "iPad mini",
+    "category": "iPad",
+    "price": 69900,
+    "tagline": "Small wonder. Big ideas.",
+    "specs": [
+      "A17 Pro chip",
+      "8.3-inch Liquid Retina display",
+      "Apple Pencil Pro support",
+      "12MP Wide camera"
+    ],
+    "colors": [
+      {
+        "name": "Purple",
+        "hex": "#bcb8d3"
+      },
+      {
+        "name": "Blue",
+        "hex": "#b6c9d5"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#e4ded1"
+      },
+      {
+        "name": "Space Grey",
+        "hex": "#78787d"
+      }
+    ],
+    "variants": [
+      {
+        "label": "128GB",
+        "price": 69900
+      },
+      {
+        "label": "256GB",
+        "price": 81900
+      },
+      {
+        "label": "512GB",
+        "price": 105900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/ipad-mini/",
+    "verified": "2026-09-17",
+    "image": "/assets/ipad-mini-card.png",
+    "hero": "/assets/ipad-mini-hero.png",
+    "gallery": [
+      "/assets/ipad-mini-view-0.png",
+      "/assets/ipad-mini-view-1.jpg",
+      "/assets/ipad-mini-view-2.png"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "Small wonder. Big ideas.",
+        "image": "/assets/ipad-mini-hero.png"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/ipad-mini-card.png"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/ipad-mini-view-0.png"
+      }
+    ]
+  },
+  {
+    "id": "apple-watch-series-12",
+    "name": "Apple Watch Series 12",
+    "category": "Watch",
+    "price": 56900,
+    "tagline": "A better day starts here.",
+    "specs": [
+      "42mm or 46mm case",
+      "Heart rate sensing",
+      "Up to 24 hours of normal use",
+      "Always-On display"
+    ],
+    "colors": [
+      {
+        "name": "Dark Bronze",
+        "hex": "#766258"
+      },
+      {
+        "name": "Light Gold",
+        "hex": "#d8cbb7"
+      },
+      {
+        "name": "Black",
+        "hex": "#343436"
+      },
+      {
+        "name": "Space Grey",
+        "hex": "#77787b"
+      }
+    ],
+    "variants": [
+      {
+        "label": "42mm aluminium",
+        "price": 56900
+      }
+    ],
+    "badge": "Pre-order",
+    "source": "https://www.apple.com/in/apple-watch-series-12/",
+    "verified": "2026-09-17",
+    "image": "/assets/apple-watch-lineup-trio.png",
+    "hero": "/assets/apple-watch-series-12-hero.jpg",
+    "gallery": [
+      "/assets/apple-watch-series-12-view-0.jpg",
+      "/assets/apple-watch-series-12-view-1.jpg",
+      "/assets/apple-watch-series-12-view-2.jpg",
+      "/assets/apple-watch-series-12-view-3.jpg",
+      "/assets/apple-watch-series-12-view-4.jpg",
+      "/assets/apple-watch-series-12-view-5.jpg"
+    ],
+    "video": "",
+    "colorImages": {
+      "Dark Bronze": "/assets/apple-watch-series-12-dark-bronze.jpg",
+      "Light Gold": "/assets/apple-watch-series-12-light-gold.jpg",
+      "Black": "/assets/apple-watch-series-12-black.jpg"
+    },
+    "features": [
+      {
+        "label": "Overview",
+        "description": "A better day starts here.",
+        "image": "/assets/apple-watch-series-12-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/apple-watch-series-12-card.png"
+      },
+      {
+        "label": "Colours",
+        "description": "Explore the available finishes and choose the one that feels like you.",
+        "image": "/assets/apple-watch-series-12-view-0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "apple-watch-ultra-4",
+    "name": "Apple Watch Ultra 4",
+    "category": "Watch",
+    "price": 109900,
+    "tagline": "Go beyond your everyday.",
+    "specs": [
+      "49mm titanium case",
+      "Up to 50 hours of normal use",
+      "Up to 84 hours in Low Power Mode",
+      "Sports and adventure features"
+    ],
+    "colors": [
+      {
+        "name": "Natural",
+        "hex": "#b8b3a9"
+      },
+      {
+        "name": "Black",
+        "hex": "#373737"
+      }
+    ],
+    "variants": [
+      {
+        "label": "49mm titanium",
+        "price": 109900
+      }
+    ],
+    "badge": "Pre-order",
+    "source": "https://www.apple.com/in/apple-watch-ultra-4/",
+    "verified": "2026-09-17",
+    "image": "/assets/apple-watch-ultra-4-card.png",
+    "hero": "/assets/apple-watch-ultra-4-hero.jpg",
+    "gallery": [
+      "/assets/apple-watch-ultra-4-view-0.jpg",
+      "/assets/apple-watch-ultra-4-view-1.jpg",
+      "/assets/apple-watch-ultra-4-view-2.jpg",
+      "/assets/apple-watch-ultra-4-view-3.jpg",
+      "/assets/apple-watch-ultra-4-view-4.jpg",
+      "/assets/apple-watch-ultra-4-view-5.jpg"
+    ],
+    "video": "",
+    "colorImages": {
+      "Natural": "/assets/apple-watch-ultra-4-natural.jpg",
+      "Black": "/assets/apple-watch-ultra-4-black.jpg"
+    },
+    "features": [
+      {
+        "label": "Colours",
+        "description": "Explore the available finishes and choose the one that feels like you.",
+        "image": "/assets/apple-watch-ultra-4-view-0.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/apple-watch-ultra-4-view-3.jpg"
+      },
+      {
+        "label": "Durability",
+        "description": "Explore the materials and construction.",
+        "image": "/assets/apple-watch-ultra-4-view-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "apple-watch-se",
+    "name": "Apple Watch SE 3",
+    "category": "Watch",
+    "price": 29900,
+    "tagline": "Every little move counts.",
+    "specs": [
+      "40mm or 44mm aluminium case",
+      "Always-On display",
+      "Up to 18 hours of normal use",
+      "Sleep tracking"
+    ],
+    "colors": [
+      {
+        "name": "Starlight",
+        "hex": "#e0d6c6"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#383e49"
+      }
+    ],
+    "variants": [
+      {
+        "label": "40mm aluminium",
+        "price": 29900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/apple-watch-se/",
+    "verified": "2026-09-17",
+    "image": "/assets/apple-watch-se-card.png",
+    "hero": "/assets/apple-watch-se-hero.jpg",
+    "gallery": [
+      "/assets/apple-watch-se-view-0.jpg",
+      "/assets/apple-watch-se-view-1.jpg",
+      "/assets/apple-watch-se-view-2.jpg",
+      "/assets/apple-watch-se-view-3.jpg",
+      "/assets/apple-watch-se-view-4.jpg",
+      "/assets/apple-watch-se-view-5.jpg"
+    ],
+    "video": "",
+    "colorImages": {
+      "Starlight": "/assets/apple-watch-se-starlight.jpg",
+      "Midnight": "/assets/apple-watch-se-midnight.jpg"
+    },
+    "features": [
+      {
+        "label": "Colours",
+        "description": "Explore the available finishes and choose the one that feels like you.",
+        "image": "/assets/apple-watch-se-view-0.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/apple-watch-se-view-3.jpg"
+      },
+      {
+        "label": "Display",
+        "description": "Explore the display from a different perspective.",
+        "image": "/assets/apple-watch-se-view-5.jpg"
+      }
+    ]
+  },
+  {
+    "id": "airpods-5",
+    "name": "AirPods 5",
+    "category": "AirPods",
+    "price": 14900,
+    "tagline": "Less noise. More you.",
+    "specs": [
+      "Active Noise Cancellation",
+      "Personalised Spatial Audio",
+      "Up to 4 hours with ANC",
+      "USB-C charging case"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f1f1ed"
+      }
+    ],
+    "variants": [
+      {
+        "label": "USB-C case",
+        "price": 14900
+      },
+      {
+        "label": "Wireless Charging Case",
+        "price": 17900
+      }
+    ],
+    "badge": "Pre-order",
+    "source": "https://www.apple.com/in/airpods-5/",
+    "verified": "2026-09-17",
+    "image": "/assets/airpods-5-card.jpg",
+    "hero": "/assets/airpods-5-hero.jpg",
+    "gallery": [
+      "/assets/airpods-5-view-0.jpg",
+      "/assets/airpods-5-view-1.jpg",
+      "/assets/airpods-5-view-2.jpg",
+      "/assets/airpods-5-view-3.jpg",
+      "/assets/airpods-5-view-4.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "Less noise. More you.",
+        "image": "/assets/airpods-5-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/airpods-5-card.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/airpods-5-view-0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "airpods-pro",
+    "name": "AirPods Pro 3",
+    "category": "AirPods",
+    "price": 27900,
+    "tagline": "Hear a world of difference.",
+    "specs": [
+      "Active Noise Cancellation",
+      "Heart rate sensing during workouts",
+      "Up to 8 hours with ANC",
+      "MagSafe Charging Case"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#f1f1ed"
+      }
+    ],
+    "variants": [
+      {
+        "label": "MagSafe Charging Case",
+        "price": 27900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/airpods-pro/",
+    "verified": "2026-09-17",
+    "image": "/assets/airpods-pro-card.jpg",
+    "hero": "/assets/airpods-pro-hero.jpg",
+    "gallery": [
+      "/assets/airpods-pro-view-0.jpg",
+      "/assets/airpods-pro-view-1.jpg",
+      "/assets/airpods-pro-view-2.jpg",
+      "/assets/airpods-pro-view-3.jpg",
+      "/assets/airpods-pro-view-4.jpg",
+      "/assets/airpods-pro-view-5.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "Hear a world of difference.",
+        "image": "/assets/airpods-pro-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/airpods-pro-card.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/airpods-pro-view-0.jpg"
+      }
+    ]
+  },
+  {
+    "id": "airpods-max",
+    "name": "AirPods Max 2",
+    "category": "AirPods",
+    "price": 74900,
+    "tagline": "Lose yourself in sound.",
+    "specs": [
+      "Over-ear design",
+      "Active Noise Cancellation",
+      "Up to 20 hours of listening",
+      "Personalised Spatial Audio"
+    ],
+    "colors": [
+      {
+        "name": "Purple",
+        "hex": "#b9afd0"
+      },
+      {
+        "name": "Blue",
+        "hex": "#aac4d7"
+      },
+      {
+        "name": "Midnight",
+        "hex": "#39414b"
+      },
+      {
+        "name": "Starlight",
+        "hex": "#e2d9c7"
+      },
+      {
+        "name": "Orange",
+        "hex": "#e3a17e"
+      }
+    ],
+    "variants": [
+      {
+        "label": "USB-C",
+        "price": 74900
+      }
+    ],
+    "badge": "",
+    "source": "https://www.apple.com/in/airpods-max/",
+    "verified": "2026-09-17",
+    "image": "/assets/airpods-max-card.jpg",
+    "hero": "/assets/airpods-max-hero.jpg",
+    "gallery": [
+      "/assets/airpods-max-view-0.jpg",
+      "/assets/airpods-max-view-1.jpg"
+    ],
+    "video": "",
+    "colorImages": {},
+    "features": [
+      {
+        "label": "Overview",
+        "description": "Lose yourself in sound.",
+        "image": "/assets/airpods-max-hero.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/airpods-max-card.jpg"
+      },
+      {
+        "label": "Design",
+        "description": "A closer look at the materials and form of this product.",
+        "image": "/assets/airpods-max-view-0.jpg"
+      }
+    ]
+  }
+]
